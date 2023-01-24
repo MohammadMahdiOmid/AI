@@ -1,5 +1,4 @@
 <h1> 8-puzzle problem </h1>
-Solving 8-puzzle problem with search algorithms
 <p> This application solves 8-puzzle problem with search algorithms</p>
 <br>
 <h3>Used search algorithms are: </h3>
