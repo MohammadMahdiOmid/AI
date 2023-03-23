@@ -29,18 +29,18 @@ for your operating system
 </p>
 
 <h3>Run: </h3>
-  Run <a href="https://github.com/iamMHZ/AI/blob/master/view/Main.py">Main.py</a>
+  Run <a href="https://github.com/MohammadMahdiOmid/AI/blob/master/view/Main.py">Main.py</a>
   
 
 <h3>Screenshots: </h3>
 
-<img src="https://github.com/iamMHZ/AI/blob/master/doc/ai.gif" alt="UI" >
+<img src="https://github.com/MohammadMahdiOmid/AI/blob/master/doc/ai.gif" alt="UI" >
 <br>
-<img src="https://github.com/iamMHZ/AI/blob/master/doc/puzzle1.JPG" alt="UI" >
+<img src="https://github.com/MohammadMahdiOmid/AI/blob/master/doc/puzzle1.JPG" alt="UI" >
 <br>
-<img src="https://github.com/iamMHZ/AI/blob/master/doc/puzzle2.JPG" alt="UI" >
+<img src="https://github.com/MohammadMahdiOmid/AI/blob/master/doc/puzzle2.JPG" alt="UI" >
 <br>
-<img src="https://github.com/iamMHZ/AI/blob/master/doc/puzzle3.JPG" alt="UI" >
+<img src="https://github.com/MohammadMahdiOmid/AI/blob/master/doc/puzzle3.JPG" alt="UI" >
 
 
 
